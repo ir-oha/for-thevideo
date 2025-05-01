@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+body{
+    background-color: black;
+    color:#38b6ff;
+    text-align: center;
+}
+
+.textin{
+    background-color: black;
+    color:white;
+    height:2em;
+    width: 50em;
+    border: 3px solid skyblue;
+    
+}
+.btn{
+    background-color: black;
+    color: white;
+    height: 3em;
+    width:10em;
+    border: 3px solid skyblue;
+}
+a{
+    background-color: black;
+    color: aquamarine;
+    
+}

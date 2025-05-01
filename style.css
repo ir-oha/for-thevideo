@@ -26,3 +26,26 @@ a{
     color: aquamarine;
     
 }
+
+@media (max-width:600px){
+    .btn{
+        background-color: black;
+        color: white;
+        height: 3em;
+        width:5em;
+        border: 3px solid skyblue;
+}
+a{
+    background-color: black;
+    color: aquamarine;
+    
+}
+.textin{
+    background-color: black;
+    color:white;
+    height:2em;
+    width: 10em;
+    border: 3px solid skyblue;
+    
+}
+}
